@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on C/C++, Python, HTML e CSS;
-- 🌱 I’m currently learning Java, C# for Unity, Python;
-- 👯 I’m looking to collaborate on Search Optimization Algorithms;
+- 🌱 I’m currently learning Swift, Java, C# for Unity, Python;
 - 📫 How to reach me: annekarolinneakd@gmail.com
 - 😄 Pronouns: she/her;
 
