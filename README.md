@@ -1,7 +1,5 @@
 ### Hi, Anne Karolinne here... 👋
 
-
-- 🔭 I’m currently working on C/C++, Python, HTML e CSS;
 - 🌱 I’m currently learning Swift, Java, C# for Unity, Python;
 - 📫 How to reach me: annekarolinneakd@gmail.com
 - 😄 Pronouns: she/her;
