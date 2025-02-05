@@ -1,7 +1,7 @@
 ### Hi, Anne Karolinne here... 👋
 ---
 - 🌱 I’m currently learning Swift, Java, C# for Unity, Python;
-- 🖥️ I am studying Artificial Intelligence, machine learning, computer organization, among others;
+- 🖥️ I am studying Artificial Intelligence, Machine Learning and Data Science;
 - 😄 Pronouns: she/her;
 - 🇧🇷 I am from Brazil;
 - Languages: 🇺🇸🇧🇷;
