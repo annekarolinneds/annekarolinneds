@@ -1,10 +1,12 @@
 ### Hi, Anne Karolinne here... 👋
 ---
-- 🌱 I’m currently learning Swift, Java, C# for Unity, Python;
-- 🖥️ I am studying Artificial Intelligence, Machine Learning and Data Science;
-- 😄 Pronouns: she/her;
-- 🇧🇷 I am from Brazil;
-- Languages: 🇺🇸🇧🇷;
+- 🧠 Focada em: Inteligência Artificial, Machine Learning e Ciência de Dados;
+- 📊 Maior experiência em: modelagem de dados, aprendizado de máquina e análises estatísticas;
+- 💻 Experiência adicional em: desenvolvimento front-end, noções de back-end, criação de APIs RESTful e manipulação de bancos de dados;
+- 🛠️ Outras competências: desenvolvimento e personalização em WordPress, gestão de plataformas de e-commerce (Nuvemshop e Bagy) e integração com ERP Bling, incluindo configurações profissionais dentro do sistema;
+- 😄 Pronomes: ela/dela;
+- 🇧🇷 Origem: Brasil;
+- 🌎 Idiomas: Português e Inglês;
 ---
 
 
